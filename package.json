@@ -1,10 +1,13 @@
 {
-  "name": "MK0SnCaaYWhoZKH2pI6xbcbZ7oBacWTpa6AKN7MJoC5UYIToDw",
+  "name": "โบนัสฟรี - เว็บพนัน 123play(123เพลล์) สมัครฟรี เครดิตฟรี ที่นี้",
   "theme": "syntax",
   "version": "1.0.9",
   "description": "โบนัสฟรี หากนักเดิมพันท่านไหน ทั้งนี้ โบนัสฟรี 123Play เว็บพนันออนไลน์ อันดับหนึ่ง มีความสนใจ หรือ อยากเข้าเล่น โบนัสฟรี 818kingเล่นฟรี หรือ 818คิง อาณาจัก",
   "repository": "https://github.com/gullibles-02/indoor-06",
-  "keywords": ["โบนัสฟรี","โบนัสฟรี 123Play"],
+  "keywords": [
+    "โบนัสฟรี",
+    "โบนัสฟรี 123Play"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
