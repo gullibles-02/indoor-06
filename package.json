@@ -1,10 +1,13 @@
 {
-  "name": "XIezxJ0Ovgq1DAoB2a6iy2H4A9gzuxl8Y1mWBNzcAPhhOnwHJg",
+  "name": "เครดิตฟรี - เว็บพนัน slotxo(สล็อตเอ็กโอ) สมัครฟรี เครดิตฟรี ที่นี้",
   "theme": "syntax",
   "version": "1.0.6",
   "description": "เครดิตฟรี Ufafever อย่างไรก็ดี เครดิตฟรี SlotXO เว็บพนันออนไลน์ อันดับหนึ่ง เว็บไซต์ คาสิโนออนไลน์ หรือ เว็บแทงบอล ที่กำลังมาแรง และ โด่งดังที่สุดใน เวลานี",
   "repository": "https://github.com/gullibles-02/indoor-06",
-  "keywords": ["เครดิตฟรี","เครดิตฟรี SlotXO"],
+  "keywords": [
+    "เครดิตฟรี",
+    "เครดิตฟรี SlotXO"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
