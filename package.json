@@ -1,10 +1,13 @@
 {
-  "name": "DiUKJsDkrr9kof1gV184aTeoe3JRdxK2W8GFHosFADMFF6yH3c",
+  "name": "รูเล็ต - เว็บพนัน 1688sagame(1688เอสเอเกมส์) สมัครฟรี เครดิตฟรี ที่นี้",
   "theme": "syntax",
   "version": "1.0.4",
   "description": "รูเล็ต เรามาพบกัน ตั้งแต่ รูเล็ต ที่ 1688SAGame เว็บพนัน มีเกมพนันทุกชนิด อีกเช่นเคยนะคะ สำหรับทุกท่านวันนี้ เราจะมา แนะนำเกม Slot บนมือถือ ที่กำลังได้รับ ",
   "repository": "https://github.com/gullibles-02/indoor-06",
-  "keywords": ["รูเล็ต","รูเล็ต 1688SAGame"],
+  "keywords": [
+    "รูเล็ต",
+    "รูเล็ต 1688SAGame"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
