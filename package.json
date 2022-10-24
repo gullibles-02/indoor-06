@@ -1,10 +1,13 @@
 {
-  "name": "X1bdg0viPgFtnu4b58C2IWNkmzUpbWBgEsTtByz0ctORX6K1Qj",
+  "name": "เล่นสล็อต - เว็บพนัน 123goal(123โกลว์) สมัครฟรี เครดิตฟรี ที่นี้",
   "theme": "syntax",
   "version": "1.0.10",
   "description": "เล่นสล็อต ที่เว็บตรง เว้นแต่ เล่นสล็อต ที่ 123Goal เว็บพนัน อันดับหนึ่ง Pgslotauto.Game นั้นมีระบบทดลองเล่น Treasures Of Aztec Slot Demo ที่สมาชิกสามารถเข้",
   "repository": "https://github.com/gullibles-02/indoor-06",
-  "keywords": ["เล่นสล็อต","เล่นสล็อต 123Goal"],
+  "keywords": [
+    "เล่นสล็อต",
+    "เล่นสล็อต 123Goal"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
