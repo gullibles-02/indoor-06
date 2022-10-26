@@ -1,10 +1,13 @@
 {
-  "name": "9eFaymKc0TzpOPduREhcrdxdsWjGrrlsdPxCqWSzLT9rqxJ9hy",
+  "name": "รูเล็ต แตกต่างกันอย่างไร",
   "theme": "syntax",
   "version": "1.0.12",
   "description": "รูเล็ต เว็บตรงGet77 จาก รูเล็ต ที่ W88 เว็บพนัน อันดับหนึ่ง เว็บที่เสนอเกมสล็อตประสิทธิภาพ อย่างใหญ่โต ที่มีครบทุกค่ายเกม ต้องการเล่นเกมไหน ถูกใจค่ายอะไร พ",
   "repository": "https://github.com/gullibles-02/indoor-06",
-  "keywords": ["รูเล็ต","รูเล็ต W88"],
+  "keywords": [
+    "รูเล็ต",
+    "รูเล็ต W88"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
