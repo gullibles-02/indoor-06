@@ -1,10 +1,20 @@
 {
-  "name": "rwwSoPnNSafweLgsMwHWwtVsciHoZdKhAd7jetbEnnTD3rtziO",
+  "name": "เว ป บาท 1000 ดูยังไง - เว็บใหม่ kerry899 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.55",
   "description": "เว ป บาท 1000 เป็นอย่างไรบ้างครับ กะ เว ป บาท 1000 Kerry899 หวยออนไลน์ อันดับหนึ่ง รูปแบบของการเล่นหวยพม่าหรือ ซื้อหวยออนไลน์ ที่มีในบ้านเราที่มีมาให้ผู้เล",
   "repository": "https://github.com/gullibles-02/indoor-06",
-  "keywords": ["เว ป บาท 1000","เว","ป","บาท","1000","เว Kerry899","ป Kerry899","บาท Kerry899","1000 Kerry899"],
+  "keywords": [
+    "เว ป บาท 1000",
+    "เว",
+    "ป",
+    "บาท",
+    "1000",
+    "เว Kerry899",
+    "ป Kerry899",
+    "บาท Kerry899",
+    "1000 Kerry899"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
