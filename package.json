@@ -1,10 +1,13 @@
 {
-  "name": "KjvWLJ8SawQGh2IZ1wFcUzBVSFv1Gn3CtIpInLS5L1DQb79k41",
+  "name": "ติดต่อuwin789 สรุปว่าอะไร - เว็บใหม่ huaydee 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.33",
   "description": "ติดต่อuwin789 หวยไทยรัฐ ทว่า ติดต่อuwin789 ที่ Huaydee เว็บหวยออนไลน์ อันดับหนึ่ง ชุดตารางเลขเด่นยอดนิยมที่คอหวยติดตามกันมาทุกงวด เช่นเดียวกับ หวยโค้งสุดท้",
   "repository": "https://github.com/gullibles-02/indoor-06",
-  "keywords": ["ติดต่อUWIN789","ติดต่อUWIN789 Huaydee"],
+  "keywords": [
+    "ติดต่อUWIN789",
+    "ติดต่อUWIN789 Huaydee"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
