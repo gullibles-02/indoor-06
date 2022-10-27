@@ -1,10 +1,22 @@
 {
-  "name": "1eys3JYuDQQZ9Q5rkVh1OpvkwiJneCgXqOTSty9WuSVi28QaO4",
+  "name": "หวย ฮานอย วัน นี้ สด สรุปว่าอะไร - เว็บใหม่ huay 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.66",
   "description": "หวย ฮานอย วัน นี้ สด 673000 สำหรับ หวย ฮานอย วัน นี้ สด Huay หวย หวยออนไลน์ มีหวยทุกชนิด ครั้งต่อเดือน (อ้างอิงข้อมูลจากจำนวนคนค้นหาบน Google)",
   "repository": "https://github.com/gullibles-02/indoor-06",
-  "keywords": ["หวย ฮานอย วัน นี้ สด","หวย","ฮานอย","วัน","นี้","สด","หวย Huay","ฮานอย Huay","วัน Huay","นี้ Huay","สด Huay"],
+  "keywords": [
+    "หวย ฮานอย วัน นี้ สด",
+    "หวย",
+    "ฮานอย",
+    "วัน",
+    "นี้",
+    "สด",
+    "หวย Huay",
+    "ฮานอย Huay",
+    "วัน Huay",
+    "นี้ Huay",
+    "สด Huay"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
