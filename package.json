@@ -1,10 +1,22 @@
 {
-  "name": "xPztPGpBxSzqkfjLgcuGRywgEYlWWjYRgmJdPnbeqk4ag67BvZ",
+  "name": "การเดินทาง ใน ไม่ อา มี ได้อย่างไร - เว็บใหม่ g2grich888 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.1.4",
   "description": "การเดินทาง ใน ไม่ อา มี หมดกังวลเรื่องทุนน้อย ตั้งแต่ การเดินทาง ใน ไม่ อา มี ที่ G2GRich888 เว็บพนัน อันดับหนึ่ง มีเท่าไหร่ก็เล่นได้ เปิดให้ลงเดิมพันได้ตั",
   "repository": "https://github.com/gullibles-02/indoor-06",
-  "keywords": ["การเดินทาง ใน ไม่ อา มี","การเดินทาง","ใน","ไม่","อา","มี","การเดินทาง G2GRich888","ใน G2GRich888","ไม่ G2GRich888","อา G2GRich888","มี G2GRich888"],
+  "keywords": [
+    "การเดินทาง ใน ไม่ อา มี",
+    "การเดินทาง",
+    "ใน",
+    "ไม่",
+    "อา",
+    "มี",
+    "การเดินทาง G2GRich888",
+    "ใน G2GRich888",
+    "ไม่ G2GRich888",
+    "อา G2GRich888",
+    "มี G2GRich888"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
