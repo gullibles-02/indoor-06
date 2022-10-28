@@ -1,10 +1,13 @@
 {
-  "name": "sBXDJSTrNM1Fv7VJvzCD5WWApgd7SOsur2YTPx51MRpUjpQWvz",
+  "name": "ผลหุ้นเยอรมันย้อนหลัง เลือกยังไง - เว็บใหม่ 999lucky 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.1.6",
   "description": "ผลหุ้นเยอรมันย้อนหลัง Candy ถ้า ผลหุ้นเยอรมันย้อนหลัง ที่ 999Lucky เว็บหวยออนไลน์ อันดับหนึ่ง Burst เกมสล็อตออนไลน์ลูกกวาดขนมอันแสนหวานหลากสี ของเว็บพนัน S",
   "repository": "https://github.com/gullibles-02/indoor-06",
-  "keywords": ["ผลหุ้นเยอรมันย้อนหลัง","ผลหุ้นเยอรมันย้อนหลัง 999Lucky"],
+  "keywords": [
+    "ผลหุ้นเยอรมันย้อนหลัง",
+    "ผลหุ้นเยอรมันย้อนหลัง 999Lucky"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
