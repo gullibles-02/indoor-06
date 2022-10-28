@@ -1,10 +1,13 @@
 {
-  "name": "omDF58ToeSPKsKgiDiJRbA3cE0K191ZCVhK4SA7NFJYI1Pct1A",
+  "name": "วิธีดูหวยหุ้น แตกต่างกันอย่างไร - เว็บใหม่ ruay 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.1.8",
   "description": "วิธีดูหวยหุ้น อัตราจ่ายหวยมาเลย์ ดั่ง วิธีดูหวยหุ้น ที่ Ruay เว็บหวยออนไลน์ อันดับหนึ่ง เว็บ วิธีดูหวยหุ้น หวยดี Huaydee ให้ราคาดี จ่ายหนัก จ่ายจริง หวยมาเ",
   "repository": "https://github.com/gullibles-02/indoor-06",
-  "keywords": ["วิธีดูหวยหุ้น","วิธีดูหวยหุ้น Ruay"],
+  "keywords": [
+    "วิธีดูหวยหุ้น",
+    "วิธีดูหวยหุ้น Ruay"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
