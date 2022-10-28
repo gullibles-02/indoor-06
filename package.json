@@ -1,10 +1,16 @@
 {
-  "name": "bZpcnJVlJiR7zEt2hHiTfBA8gzs0BI5KwcVoPLrXK78HOvvIDj",
+  "name": "หวยฮานอย vip สรุปว่าอะไร - เว็บใหม่ ruay 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.86",
   "description": "หวยฮานอย VIP จับเข้าชุดเลข ว่าด้วย หวยฮานอย VIP Ruay หวยออนไลน์ อันดับหนึ่ง 3 ตัว ได้ดังนี้—รออัพเดท—จับเข้าคู่เลข 2 ตัว ได้ดังนี้—รออัพเดท—",
   "repository": "https://github.com/gullibles-02/indoor-06",
-  "keywords": ["หวยฮานอย VIP","หวยฮานอย","VIP","หวยฮานอย Ruay","VIP Ruay"],
+  "keywords": [
+    "หวยฮานอย VIP",
+    "หวยฮานอย",
+    "VIP",
+    "หวยฮานอย Ruay",
+    "VIP Ruay"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
